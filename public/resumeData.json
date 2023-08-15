@@ -1,0 +1,331 @@
+{
+  "main": {
+    "name": "Glad Cedeño",
+    "occupation": "Software Engineer | Web Developer | Scrum Master | Project Manager | MBA Student",
+    "description": "",
+    "image": "profilepic.jpg",
+    "firstname": "firstname.png",
+    "surname": "surname.png",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "glad.cedeno@gmail.com",
+    "phone": "+1 (818) 984-4239",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "bio": [
+      { "bioItem" : "I'm a Software Engineer."},
+      { "bioItem" : "I'm a Web Developer."},
+      { "bioItem" : "I'm a Scrum Master."}, 
+      { "bioItem" : "I'm a Project Management newbie."}, 
+      { "bioItem" : "I'm an MBA student."},
+      { "bioItem" : "I'm a Businesswoman in the making."},
+      { "bioItem" : "I'm a stock market, cryptocurrency, blockchain and NFT learner."},
+      { "bioItem" : "I'm a cook and a chef wanna-be."}, 
+      { "bioItem" : "I'm a If-I-have-the-money-i-would-be a Pilot."},
+      { "bioItem" : "I'm a dauntless adventure seeker."},
+      { "bioItem" : "I'm a solo traveler."},
+      { "bioItem" : "I'm an amateur landscape photographer."},
+      { "bioItem" : "I'm a seasonal runner."},
+      { "bioItem" : "I'm a multicultural gastronomist."}, 
+      { "bioItem" : "I'm a thalassophile."},
+      { "bioItem" : "I'm a film buff."}, 
+      { "bioItem" : "I'm an anime, kdrama and US series leisure watcher."},
+      { "bioItem" : "I'm a Rubix cube and puzzles enthusiast."},
+      { "bioItem" : "I'm a Sherlock Holmes admirer."},
+      { "bioItem" : "I'm Chris Evan's secret lover ♥. "},
+      { "bioItem" : "I'm a weeaboo."},
+       { "bioItem" : "I'm an ambivert."},
+      { "bioItem" : "I'm a self-proclaimed mermaid."},
+      { "bioItem" : "I'm a frustrated drummer."},
+      { "bioItem" : "I'm a novice calligrapher."},
+      { "bioItem" : "I'm a potential polyglot."},
+      { "bioItem" : "I'm Miss Independent."},
+      { "bioItem" : "I'm a dreamer."}, 
+      { "bioItem" : "I'm a fighter."}, 
+      { "bioItem" : "I'm a survivor."},
+      { "bioItem" : "I'm a #MeToo supporter."},
+      { "bioItem" : "I'm a Filipino."},
+      { "bioItem" : "I'm LA based, Philippine born and Japan & HK former expat."},
+      { "bioItem" : "I'm a Christian."},
+      { "bioItem" : "I'm a little bit of everything rolled into one."}
+      
+    ],    
+    "website": "http://www.gladcedeno.com",
+    "resumedownload": "Resume_GladwinLouiseCedeno.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gladcedeno/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/gladgallivants",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/blueazulbughaw",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "California Trinity School of Business",
+        "degree": "Masters in Business Administration",
+        "graduated": "July 2022 - Present",
+        "url": "https://www.catu.edu/"
+      },
+      {
+        "school": "Mapua Institute of Technology",
+        "degree": "Bachelor of Science in Computer Engineering",
+        "graduated": "July 2002 - April 2007",
+        "url": "https://www.mapua.edu.ph/"
+      }
+    ],
+    "work": [
+      {
+        "company": "Online Business Owner and Freelancer",
+        "title": "Self-Employed",
+        "years": "September 2020 - Present",
+        "place": "Manila, Philippines",
+        "url": "www.gladcedeno.com"
+      },
+      {
+        "company": "American Express",
+        "title": "Engineer / Scrum Master",
+        "years": "May 2016 - February-2021",
+        "place": "Tai Koo, Hong Kong",
+        "url": "https://www.americanexpress.com/en-hk/"
+      },
+      {
+        "company": "Freelance Web Developer",
+        "title": "Self-Employed",
+        "years": "August 2014 - May 2016",
+        "place": "Manila, Philippines",
+        "url": "www.gladcedeno.com"
+      },
+      {
+        "company": "Netsuite Philippines",
+        "title": "Web Support Engineer",
+        "years": "December 2014 - May 2015",
+        "place": "Makati, Philippines",
+        "url": "https://www.netsuite.com.ph/ "
+      },
+      {
+        "company": "Northgate Arinso",
+        "title": "Front-End Web Developer",
+        "years": "March 2011 - August 2014",
+        "place": "Ortigas, Philippines",
+        "url": "https://www.ngahr.com/"
+      },
+      {
+        "company": "MozCom",
+        "title": "Web Developer",
+        "years": "August 2009 - March 2011",
+        "place": "Makati, Philippines",
+        "url": ""
+      },
+      {
+        "company": "Hewlett-Packard Philippines",
+        "title": "SAP Support Engineer",
+        "years": "May 2009 - August 2009",
+        "place": "Makati, Philippines",
+        "url": "https://www.hp.com/ph-en/home.html"
+      },      
+      {
+        "company": "Digital Information Technology",
+        "title": "Embedded Sytems Engineer",
+        "years": "March 2008 - December 2008",
+        "place": "Kawasaki, Japan",
+        "url": "https://www.ditgroup.jp/english/"
+      },
+      {
+        "company": "Oracle Philippines",
+        "title": "Bootcamp Trainee",
+        "years": "July 2007 - September 2007",
+        "place": "Taguig, Philippines",
+        "url": "https://www.oracle.com/ph/corporate/contact/"
+      }      
+    ],
+    "business": [
+      {
+        "company": "GoGoBaon",
+        "title": "CTO, Food Business Start-Up",
+        "years": "May 2018 - July 2019",
+        "url": "https://www.instagram.com/gogobaon/"
+      },
+      {
+        "company": "Wanderdeals",
+        "title": "CTO, Travel Business Start-Up",
+        "years": "(May 2016 - July 2017)",
+        "url": "https://www.wanderdeals.com/"
+    }
+  ],  
+  "certificates": [
+    {
+      "title": "Google Project Management Course Certification"
+    },
+    {
+      "title": "1 of 2 Hackathon local campus winner out of 8 teams"
+    },
+    {
+      "title": "Sun Certified Java Programmer 1.4"
+    },
+    {
+      "title": "Japanese Language Proficiency Test  (JLPT) - Level 3 (Dec 2008)  "
+    } 
+],    
+"expertise": {
+      "skillmessage" : "HTML5, CSS3, Bootstrap, C/C++, JSP, PHP, javascript, JSON, AJAX, XML, React JS, React Native, jQuery, Prototype JS, Git, Tortoise SVN, JIRA, Confluence, Adobe Enterprise Management (AEM), Wordpress",
+      "skills"  : [
+      {
+        "name": "Git",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Bootstrap",
+        "className": "fa fa-bootstrap"
+      },
+      {
+        "name": "ReactJs",
+        "className": "fa fa-git"
+      },
+      {
+        "name": "CSS",
+        "className": "fa fa-css3"
+      },
+      {
+        "name": "HTML5",
+        "className": "fa fa-html5"
+      },
+      {
+        "name": "React JS",
+        "className": "fa fa-react"
+      },
+      {
+        "name": "MongoDB",
+        "className": "fa fa-git"
+      }
+    ]
+  },    
+    "techskills": {
+      "skillmessage" : "JSP, PHP, Java, ServiceNow, Machine Learning, Cookie Privacy, Drupal, Shopify, SAP, COBOL, Salesforce, Netsuite, Google Workspace, Microsoft Office, Windows OS, Windows OS, Linux OS, Stripe, Adobe Photoshop",
+      "skills"  : [
+      {
+        "name": "Git",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Bootstrap",
+        "className": "fa fa-bootstrap"
+      },
+      {
+        "name": "ReactJs",
+        "className": "fa fa-git"
+      },
+      {
+        "name": "CSS",
+        "className": "fa fa-css3"
+      },
+      {
+        "name": "HTML5",
+        "className": "fa fa-html5"
+      },
+      {
+        "name": "React JS",
+        "className": "fa fa-react"
+      },
+      {
+        "name": "MongoDB",
+        "className": "fa fa-git"
+      }
+    ]
+  },
+    "mngtskills": {
+      "skillmessage" : "Agile Project Management, Scrum, Rally, Clarity, Communication, Coordination, Analytical and Problem-solving, Risk Management, Organizational Management, Planning, Forecasting, Monitoring, Budgeting, Portfolio Management, Software Development Life Cycle (SDLC), DevOps, Leadership",
+      "skills" : [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  }  
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "https://drive.google.com/open?id=19HuEjzR_fqlvRJ8CzPwqAlevgyMJ3x6H"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
